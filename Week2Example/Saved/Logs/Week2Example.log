@@ -8311,3 +8311,19 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.02.02-23.10.13:714][711]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2023.02.02-23.10.15:715][717]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
 [2023.02.02-23.10.17:714][723]LogUdpMessaging: Warning: UDP messaging encountered an error. Auto repair routine started for reinitialization
+[2023.02.02-23.23.22:719][268]LogUObjectHash: Compacting FUObjectHashTables data took   0.34ms
+[2023.02.02-23.23.22:721][268]LogFileHelpers: InternalPromptForCheckoutAndSave started...
+[2023.02.02-23.23.22:796][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Box_20D78E45" FILE="../../../../../../Users/Game Center Student/Documents/LevelDesign/Week 2/Week2Example/Content/Box_20D78E45.uasset" SILENT=true
+[2023.02.02-23.23.22:799][268]LogSavePackage: Moving output files for package: /Game/Box_20D78E45
+[2023.02.02-23.23.22:799][268]LogSavePackage: Moving '../../../../../../Users/Game Center Student/Documents/LevelDesign/Week 2/Week2Example/Saved/Box_20D78E45735A0A4F49E54FA2428C339724732FED.tmp' to '../../../../../../Users/Game Center Student/Documents/LevelDesign/Week 2/Week2Example/Content/Box_20D78E45.uasset'
+[2023.02.02-23.23.22:800][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Box_8B0C790F" FILE="../../../../../../Users/Game Center Student/Documents/LevelDesign/Week 2/Week2Example/Content/Box_8B0C790F.uasset" SILENT=true
+[2023.02.02-23.23.22:801][268]LogSavePackage: Moving output files for package: /Game/Box_8B0C790F
+[2023.02.02-23.23.22:801][268]LogSavePackage: Moving '../../../../../../Users/Game Center Student/Documents/LevelDesign/Week 2/Week2Example/Saved/Box_8B0C790FCE52A66242D3D2CEF7DE5C9A7192F660.tmp' to '../../../../../../Users/Game Center Student/Documents/LevelDesign/Week 2/Week2Example/Content/Box_8B0C790F.uasset'
+[2023.02.02-23.23.22:801][268]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Box_263267C9" FILE="../../../../../../Users/Game Center Student/Documents/LevelDesign/Week 2/Week2Example/Content/Box_263267C9.uasset" SILENT=true
+[2023.02.02-23.23.22:803][268]LogSavePackage: Moving output files for package: /Game/Box_263267C9
+[2023.02.02-23.23.22:803][268]LogSavePackage: Moving '../../../../../../Users/Game Center Student/Documents/LevelDesign/Week 2/Week2Example/Saved/Box_263267C989030A6C4DEAD3701519F28D8179BD75.tmp' to '../../../../../../Users/Game Center Student/Documents/LevelDesign/Week 2/Week2Example/Content/Box_263267C9.uasset'
+[2023.02.02-23.23.22:848][268]LogFileHelpers: InternalPromptForCheckoutAndSave took 126 ms (total: 733 ms)
+[2023.02.02-23.23.22:853][268]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.02-23.23.22:853][268]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Box_263267C9.Box_263267C9
+[2023.02.02-23.23.22:853][268]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Box_20D78E45.Box_20D78E45
+[2023.02.02-23.23.22:853][268]LogContentValidation: Display: Validating /Script/Engine.StaticMesh /Game/Box_8B0C790F.Box_8B0C790F
