@@ -1,0 +1,12 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"C:/Users/Game Center Student/Documents/Unreal Projects/Week2Example/Content/StarterContent/HDRI/HDRI_Epic_Courtyard_Daylight.uasset"
+			]
+		}
+	]
+}
